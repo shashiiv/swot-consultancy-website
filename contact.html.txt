@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - SWOT Consultancy Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">SWOT Consultancy Services</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="active">Contact Us</a>
+    </nav>
+</header>
+
+<section class="section">
+    <h1>Contact Us</h1>
+    <p>Feel free to contact us for recovery services or business inquiries.</p>
+
+    <div class="contact-box">
+        <p><strong>Email:</strong> info@swotconsultancy.com</p>
+        <p><strong>Phone:</strong> +91 9876543210</p>
+        <p><strong>Address:</strong> Mumbai, Maharashtra, India</p>
+    </div>
+
+    <form class="contact-form">
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<footer>
+    © 2025 SWOT Consultancy Services. All Rights Reserved.
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - SWOT Consultancy Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">SWOT Consultancy Services</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html" class="active">About</a>
+        <a href="contact.html">Contact Us</a>
+    </nav>
+</header>
+
+<section class="section">
+    <h1>About Us</h1>
+    <p>
+        SWOT Consultancy Services is a professional recovery agency dedicated to helping financial 
+        institutions recover overdue payments from loan and credit card defaulters. With a skilled team and strong field network, 
+        we focus on ethical, transparent, and legally compliant recovery methods.
+    </p>
+</section>
+
+<section class="section">
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>Experienced recovery professionals</li>
+        <li>Ethical and legal recovery processes</li>
+        <li>Strong field presence</li>
+        <li>High recovery success rate</li>
+        <li>Secure and compliant operations</li>
+    </ul>
+</section>
+
+<footer>
+    © 2025 SWOT Consultancy Services. All Rights Reserved.
+</footer>
+
+</body>
+</html>
